@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhiKhodiyar
 - 👀 I’m interested in data science .
-- 🌱 I’m currently learning python .
-- 💞️ I’m looking to collaborate on learning more about data scientist.
+- 🌱 I’m currently learning everything .
+- 💞️ I’m willing to collaborate on learning more about data scientist.
 - 📫 How to reach me abhikhodiyar1@gmail.com ...
 
 <!---
